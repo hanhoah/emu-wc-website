@@ -1,61 +1,18 @@
-# EMU-WC Website
+# EMU WC Smart Toilet E-Commerce Website
 
-Next.js website for EMU-WC, a premium provider of smart toilet covers and smart toilets.
+This is a Next.js 14 e-commerce website for EMU WC smart toilet covers and toilets.
 
-## Technologies
+## Features
+- Next.js 14 with App Router
+- TypeScript for type safety
+- Tailwind CSS for styling
+- Internationalization with next-intl
+- FAQ with categorized accordion
+- Product pages structure
+- Responsive design
+- pnpm for package management
 
-- Next.js 14
-- TypeScript
-- Tailwind CSS
-- Vercel (Hosting & Database)
+## Live Demo
+Visit the live website: [EMU WC Website](https://vercel.com)
 
-## Development
-
-```bash
-# Install dependencies
-npm install
-
-# Run development server
-npm run dev
-
-# Build for production
-npm run build
-
-# Start production server
-npm run start
-
-# Run linter
-npm run lint
-```
-
-## Project Structure
-
-```
-emu-wc/
-├── .github/            # GitHub Actions workflows
-├── public/             # Static assets
-├── src/
-│   ├── app/            # Next.js App Router pages
-│   ├── components/     # React components
-│   ├── config/         # Configuration files
-│   ├── lib/            # Utility functions
-│   ├── styles/         # Global styles
-│   └── types/          # TypeScript type definitions
-├── .gitignore
-├── package.json
-├── postcss.config.js
-├── tailwind.config.js
-├── tsconfig.json
-└── vercel.json
-```
-
-## Internationalization
-
-The website supports the following languages:
-- English (default)
-- German
-- Russian
-
-## Deployment
-
-The website is automatically deployed to Vercel through GitHub Actions.
+Built with ❤️ using Next.js and deployed on Vercel.
