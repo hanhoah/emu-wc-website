@@ -1,9 +1,8 @@
-import { useTranslations, setRequestLocale } from 'next-intl';
+import { useTranslations } from 'next-intl';
 import Image from 'next/image';
 import Link from 'next/link';
 
-export default function Home({ params }: { params: { locale: string } }) {
-  setRequestLocale(params.locale);
+export default function Home() {
   const t = useTranslations();
 
   return (
