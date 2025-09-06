@@ -1,0 +1,98 @@
+// Site metadata
+export const SITE = {
+  title: "EMU WC – Premium Bathroom & Toilet Solutions",
+  description: "High-quality smart toilet covers and smart toilets with advanced features for comfort and hygiene."
+};
+
+// Navigation
+export const NAVIGATION = {
+  home: "Home",
+  products: "Products",
+  smartCover: "Smart Cover",
+  smartToilet: "Smart Toilet",
+  aboutUs: "About Us",
+  blog: "Blog",
+  contact: "Contact"
+};
+
+// Footer
+export const FOOTER = {
+  companyInfo: "Premium Bathroom & Toilet Solutions since 2016.",
+  products: "Products",
+  aboutEmu: "About EMU",
+  support: "Support",
+  ourCompany: "Our Company",
+  termsOfService: "Terms of Service",
+  faq: "FAQ",
+  project: "Project",
+  copyright: (year: number) => `© ${year} Xiamen EMU Intelligent Technology Co., Ltd. All rights reserved.`
+};
+
+// Home page
+export const HOME = {
+  hero: {
+    title: "Experience Smart Bathroom Technology",
+    subtitle: "Premium smart toilet covers and toilets with advanced features for comfort and hygiene.",
+    cta: {
+      explore: "Explore Products",
+      contact: "Contact Us"
+    }
+  },
+  featuredProducts: {
+    title: "Featured Products"
+  },
+  features: {
+    title: "Why Choose EMU WC?",
+    advancedFeatures: {
+      title: "Advanced Features",
+      description: "Heated seats, bidet functions, and air dryers for ultimate comfort."
+    },
+    premiumQuality: {
+      title: "Premium Quality",
+      description: "Built with high-quality materials for durability and reliability."
+    },
+    energyEfficient: {
+      title: "Energy Efficient",
+      description: "Smart power management to reduce energy consumption."
+    },
+    easyInstallation: {
+      title: "Easy Installation",
+      description: "Simple installation process compatible with most toilets."
+    },
+    hygienicSolution: {
+      title: "Hygienic Solution",
+      description: "Self-cleaning nozzles and antibacterial materials for better hygiene."
+    },
+    support: {
+      title: "24/7 Support",
+      description: "Dedicated customer support team to assist with any inquiries."
+    }
+  },
+  cta: {
+    title: "Ready to Upgrade Your Bathroom?",
+    subtitle: "Discover the perfect smart toilet solution for your home or business.",
+    button: "Get in Touch"
+  }
+};
+
+// Products
+export const PRODUCTS = {
+  title: "Our Products",
+  smartCovers: "Smart Covers",
+  smartToilets: "Smart Toilets",
+  viewAll: "View All",
+  viewDetails: "View Details",
+  status: {
+    inStock: "In Stock",
+    outOfStock: "Out of Stock",
+    comingSoon: "Coming Soon"
+  },
+  keyFeatures: "Key Features",
+  productDetails: "Product Details",
+  technicalSpecifications: "Technical Specifications",
+  installationGuide: "Installation Guide",
+  requirements: "Requirements",
+  downloadManual: "Download Installation Manual",
+  requestInfo: "Request Information",
+  downloadSpecs: "Download Specifications"
+};

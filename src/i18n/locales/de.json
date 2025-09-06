@@ -1,0 +1,92 @@
+{
+  "site": {
+    "title": "EMU WC – Premium Badezimmer & Toilettenlösungen",
+    "description": "Hochwertige Smart-Toilettensitze und Smart-Toiletten mit fortschrittlichen Funktionen für Komfort und Hygiene."
+  },
+  "navigation": {
+    "home": "Startseite",
+    "products": "Produkte",
+    "smartCover": "Smart Cover",
+    "smartToilet": "Smart Toilette",
+    "aboutUs": "Über uns",
+    "blog": "Blog",
+    "contact": "Kontakt"
+  },
+  "footer": {
+    "companyInfo": "Premium Badezimmer & Toilettenlösungen seit 2016.",
+    "products": "Produkte",
+    "aboutEmu": "Über EMU",
+    "support": "Support",
+    "ourCompany": "Unser Unternehmen",
+    "termsOfService": "Nutzungsbedingungen",
+    "faq": "FAQ",
+    "project": "Projekt",
+    "copyright": "© {year} Xiamen EMU Intelligent Technology Co., Ltd. Alle Rechte vorbehalten."
+  },
+  "home": {
+    "hero": {
+      "title": "Erleben Sie Smart-Badezimmertechnologie",
+      "subtitle": "Premium-Smart-Toilettensitze und -Toiletten mit fortschrittlichen Funktionen für Komfort und Hygiene.",
+      "cta": {
+        "explore": "Produkte entdecken",
+        "contact": "Kontaktieren Sie uns",
+        "more": "Weitere Infos"
+      }
+    },
+    "featuredProducts": {
+      "title": "Ausgewählte Produkte"
+    },
+    "features": {
+      "title": "Warum EMU WC wählen?",
+      "advancedFeatures": {
+        "title": "Fortschrittliche Funktionen",
+        "description": "Beheizte Sitze, Bidet-Funktionen und Lufttrockner für ultimativen Komfort."
+      },
+      "premiumQuality": {
+        "title": "Premium-Qualität",
+        "description": "Hergestellt aus hochwertigen Materialien für Langlebigkeit und Zuverlässigkeit."
+      },
+      "energyEfficient": {
+        "title": "Energieeffizient",
+        "description": "Intelligentes Energiemanagement zur Reduzierung des Energieverbrauchs."
+      },
+      "easyInstallation": {
+        "title": "Einfache Installation",
+        "description": "Unkomplizierter Installationsprozess, kompatibel mit den meisten Toiletten."
+      },
+      "hygienicSolution": {
+        "title": "Hygienische Lösung",
+        "description": "Selbstreinigende Düsen und antibakterielle Materialien für bessere Hygiene."
+      },
+      "support": {
+        "title": "24/7 Support",
+        "description": "Engagiertes Kundenservice-Team, das bei allen Anfragen unterstützt."
+      }
+    },
+    "cta": {
+      "title": "Bereit, Ihr Badezimmer aufzuwerten?",
+      "subtitle": "Entdecken Sie die perfekte Smart-Toilettenlösung für Ihr Zuhause oder Unternehmen.",
+      "button": "Kontakt aufnehmen"
+    }
+  },
+  "products": {
+    "title": "Unsere Produkte",
+    "smartCovers": "Smart Covers",
+    "smartToilets": "Smart Toiletten",
+    "viewAll": "Alle anzeigen",
+    "viewDetails": "Details anzeigen",
+    "status": {
+      "inStock": "Auf Lager",
+      "outOfStock": "Nicht auf Lager",
+      "comingSoon": "Demnächst verfügbar"
+    },
+    "keyFeatures": "Hauptmerkmale",
+    "productDetails": "Produktdetails",
+    "technicalSpecifications": "Technische Spezifikationen",
+    "installationGuide": "Installationsanleitung",
+    "requirements": "Anforderungen",
+    "downloadManual": "Installationshandbuch herunterladen",
+    "requestInfo": "Informationen anfordern",
+    "downloadSpecs": "Spezifikationen herunterladen"
+  }
+}

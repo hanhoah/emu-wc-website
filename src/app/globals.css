@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --primary-main: 56, 137, 190; /* #3889be */
+    --primary-light: 89, 166, 216; /* #59a6d8 */
+    --primary-dark: 37, 110, 158; /* #256e9e */
+    --secondary-main: 230, 126, 85; /* #e67e55 */
+    --secondary-light: 255, 157, 117; /* #ff9d75 */
+    --secondary-dark: 198, 91, 57; /* #c65b39 */
+  }
+
+  body {
+    @apply text-gray-900 bg-white;
+  }
+
+  h1, h2, h3, h4, h5 {
+    @apply font-serif;
+  }
+
+  p, a, li, span {
+    @apply font-sans;
+  }
+}
+
+@layer components {
+  .container-custom {
+    @apply container mx-auto px-4 sm:px-6 lg:px-8;
+  }
+  
+  .btn-primary {
+    @apply bg-primary-main text-white px-4 py-2 rounded-md hover:bg-primary-dark transition-colors;
+  }
+  
+  .btn-secondary {
+    @apply bg-secondary-main text-white px-4 py-2 rounded-md hover:bg-secondary-dark transition-colors;
+  }
+}
